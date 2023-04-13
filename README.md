@@ -1,2 +1,2 @@
 # git-github
-This is part of DevOps Study
+This is part of DevOps Study Tutorials
